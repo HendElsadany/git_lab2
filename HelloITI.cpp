@@ -13,5 +13,9 @@ public:
     {
         cout << "Hello Git" << endl;
     }
+    void printWelcome()
+    {
+        cout << "Welcome to ITI" << endl;
+    }
 };
 // This class prints Hello ITI and Hello Git
